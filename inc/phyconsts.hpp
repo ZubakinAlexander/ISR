@@ -1,5 +1,5 @@
-#ifndef __PHY_CONSTANTS_H__
-#define __PHY_CONSTANTS_H__
+#ifndef __PHYCONSTS_H
+#define __PHYCONSTS_H_
 #define ALPHA_QED 7.2973525698e-03
 #define ELECTRON_M 5.10998928e-04
 #define PI_M 0.139570
